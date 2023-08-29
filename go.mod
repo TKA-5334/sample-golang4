@@ -10,4 +10,4 @@ require github.com/pkg/errors v0.9.1
 
 require github.com/square/certigo v1.12.1
 
-require golang.org/x/text v0.3.7
+require golang.org/x/text v0.3.8
